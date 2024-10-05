@@ -22,6 +22,8 @@ import { rpopCommandController } from '../redisController/listCommands/rpopComma
 import { llenCommandController } from '../redisController/listCommands/llenCommand';
 import { lrangeCommandController } from '../redisController/listCommands/lrangeCommand';
 import { saddCommandController } from '../redisController/setCommands/saddCommand';
+import { sremCommandController } from '../redisController/setCommands/sremCommand';
+import { sisMemberCommandController } from '../redisController/setCommands/sismemCommand';
 
 export const selectCommandRedis = (
   dataCommand: Array<string>,
@@ -100,10 +102,39 @@ export const selectCommandRedis = (
       }
 
       case saddCommand: {
-        Logger.info(`This is the set add command`)
-        const key = dataCommand[1]
-        const value = dataCommand[2]
-        saddCommandController(key,value)
+        Logger.info(`This is the set add command`);
+        const key = dataCommand[1];
+        const value = dataCommand[2];
+        const data = saddCommandController(key, value);
+        connection.write(`:${data}\r\n`);
+        break;
+      }
+
+      case sremCommand: {
+        Logger.info(`This is the set rem command`);
+        const key = dataCommand[1];
+        const value = dataCommand[2];
+        const data = sremCommandController(key, value);
+        connection.write(`:${data}\r\n`);
+        break;
+      }
+
+      case sisMemberCommand: {
+        Logger.info(`This is the Set is Member Command`);
+        const key = dataCommand[1];
+        const value = dataCommand[2] ?? null;
+        const data = sisMemberCommandController(key, value);
+        console.log(data);
+        console.log(typeof data);
+        if (typeof data === 'string') {
+          connection.write(`+${data}\r\n`);
+          break;
+        } else if (typeof data === 'number') {
+          connection.write(`:${data}\r\n`);
+          break;
+        } else {
+          return;
+        }
       }
       case command: {
         Logger.info(`Connected to the Custom Redis Client`);

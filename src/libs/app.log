@@ -1004,3 +1004,508 @@
 2024-10-05T13:12:47.149Z [INFO]: This is the range of the list
 2024-10-05T13:12:47.150Z [INFO]: File is already Created
 2024-10-05T13:12:47.152Z [INFO]: File is already Created
+2024-10-05T13:38:09.249Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:38:28.965Z [INFO]: A Client is Connected 
+2024-10-05T13:38:28.968Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T13:38:28.968Z [INFO]: Custom Redis Server Running 
+2024-10-05T13:38:32.126Z [INFO]: This is the set add command
+2024-10-05T13:38:32.127Z [INFO]: File is already Created
+2024-10-05T13:38:32.128Z [INFO]: File is already Created
+2024-10-05T13:38:32.128Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T13:38:32.128Z [INFO]: Custom Redis Server Running 
+2024-10-05T13:38:33.693Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:39:03.569Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:39:10.512Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:39:13.568Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:39:17.724Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:39:29.818Z [INFO]: A Client is Connected 
+2024-10-05T13:39:29.821Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T13:39:29.821Z [INFO]: Custom Redis Server Running 
+2024-10-05T13:39:32.791Z [INFO]: This is the set add command
+2024-10-05T13:39:32.793Z [INFO]: File is already Created
+2024-10-05T13:39:32.793Z [INFO]: File is already Created
+2024-10-05T13:39:32.794Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T13:39:32.794Z [INFO]: Custom Redis Server Running 
+2024-10-05T13:39:42.721Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:39:49.306Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:41:16.739Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:41:24.997Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:41:30.318Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:41:57.995Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:42:09.344Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:42:16.306Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:42:19.917Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:42:28.024Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:42:56.631Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:43:14.551Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:43:17.949Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:43:29.393Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:43:39.224Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:43:53.977Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:44:07.157Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:44:22.300Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:49:31.023Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:50:17.944Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:50:32.176Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:50:39.876Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:50:48.016Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T13:50:50.452Z [INFO]: A Client is Connected 
+2024-10-05T13:50:50.457Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T13:50:50.458Z [INFO]: Custom Redis Server Running 
+2024-10-05T13:50:54.690Z [INFO]: This is the set add command
+2024-10-05T13:50:54.690Z [INFO]: File is already Created
+2024-10-05T13:50:54.691Z [INFO]: File is already Created
+2024-10-05T13:50:54.692Z [INFO]: File is already Created
+2024-10-05T13:50:54.693Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T13:50:54.693Z [INFO]: Custom Redis Server Running 
+2024-10-05T13:50:56.190Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:22:39.160Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:24:15.367Z [INFO]: A Client is Connected 
+2024-10-05T16:24:15.370Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:24:15.370Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:24:20.170Z [INFO]: This is the set add command
+2024-10-05T16:24:20.171Z [INFO]: File is already Created
+2024-10-05T16:24:20.172Z [INFO]: File is already Created
+2024-10-05T16:24:20.173Z [INFO]: File is already Created
+2024-10-05T16:24:20.174Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:24:20.175Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:24:47.890Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:25:02.578Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:25:11.134Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:25:19.234Z [INFO]: A Client is Connected 
+2024-10-05T16:25:19.238Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:25:19.238Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:25:22.268Z [INFO]: This is the set add command
+2024-10-05T16:25:22.269Z [INFO]: File is already Created
+2024-10-05T16:25:22.270Z [INFO]: File is already Created
+2024-10-05T16:25:22.271Z [INFO]: File is already Created
+2024-10-05T16:25:22.272Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:25:22.273Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:25:23.725Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:25:50.874Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:26:01.868Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:26:04.040Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:26:09.467Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:26:22.932Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:26:39.841Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:27:27.543Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:28:18.593Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:28:20.791Z [INFO]: A Client is Connected 
+2024-10-05T16:28:20.794Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:28:20.795Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:28:23.955Z [INFO]: This is the set add command
+2024-10-05T16:28:23.956Z [INFO]: File is already Created
+2024-10-05T16:28:23.957Z [INFO]: File is already Created
+2024-10-05T16:28:23.958Z [INFO]: File is already Created
+2024-10-05T16:28:23.959Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:28:23.959Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:28:25.485Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:28:56.901Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:28:59.076Z [INFO]: A Client is Connected 
+2024-10-05T16:28:59.080Z [INFO]: This is the set add command
+2024-10-05T16:28:59.082Z [INFO]: File is already Created
+2024-10-05T16:28:59.082Z [INFO]: File is already Created
+2024-10-05T16:28:59.085Z [INFO]: File is already Created
+2024-10-05T16:28:59.086Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:28:59.086Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:29:00.660Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:29:13.744Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:29:15.384Z [INFO]: A Client is Connected 
+2024-10-05T16:29:15.388Z [INFO]: This is the set add command
+2024-10-05T16:29:15.389Z [INFO]: File is already Created
+2024-10-05T16:29:15.390Z [INFO]: File is already Created
+2024-10-05T16:29:15.392Z [INFO]: File is already Created
+2024-10-05T16:29:15.392Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:29:15.393Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:29:16.971Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:29:33.293Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:29:44.374Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:31:45.377Z [INFO]: A Client is Connected 
+2024-10-05T16:31:45.381Z [INFO]: This is the set add command
+2024-10-05T16:31:45.382Z [INFO]: File is already Created
+2024-10-05T16:31:45.383Z [INFO]: File is already Created
+2024-10-05T16:31:45.386Z [INFO]: File is already Created
+2024-10-05T16:31:45.387Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:31:45.388Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:31:46.974Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:32:09.483Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:32:11.325Z [INFO]: A Client is Connected 
+2024-10-05T16:32:11.329Z [INFO]: This is the set add command
+2024-10-05T16:32:11.330Z [INFO]: File is already Created
+2024-10-05T16:32:11.331Z [INFO]: File is already Created
+2024-10-05T16:32:11.336Z [INFO]: File is already Created
+2024-10-05T16:32:11.337Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:32:11.337Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:32:12.891Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:32:47.497Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:32:48.878Z [INFO]: A Client is Connected 
+2024-10-05T16:32:48.882Z [INFO]: This is the set add command
+2024-10-05T16:32:48.884Z [INFO]: File is already Created
+2024-10-05T16:32:48.885Z [INFO]: File is already Created
+2024-10-05T16:32:48.890Z [INFO]: File is already Created
+2024-10-05T16:32:48.891Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:32:48.891Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:32:50.414Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:33:24.364Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:33:29.259Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:33:32.064Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:33:43.639Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:33:45.710Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:33:47.154Z [INFO]: A Client is Connected 
+2024-10-05T16:33:47.158Z [INFO]: This is the set add command
+2024-10-05T16:33:47.159Z [INFO]: File is already Created
+2024-10-05T16:33:47.160Z [INFO]: File is already Created
+2024-10-05T16:33:47.163Z [INFO]: File is already Created
+2024-10-05T16:33:47.164Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:33:47.164Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:33:48.783Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:34:28.719Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:34:31.687Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:34:37.047Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:34:49.205Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:34:50.844Z [INFO]: A Client is Connected 
+2024-10-05T16:34:50.860Z [INFO]: This is the set add command
+2024-10-05T16:34:50.861Z [INFO]: File is already Created
+2024-10-05T16:34:50.863Z [INFO]: File is already Created
+2024-10-05T16:34:50.864Z [INFO]: File is already Created
+2024-10-05T16:34:50.865Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:34:50.865Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:34:52.703Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:35:04.819Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:35:07.740Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:36:03.095Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:36:05.782Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:36:17.897Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:36:29.497Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:36:37.154Z [INFO]: A Client is Connected 
+2024-10-05T16:36:37.157Z [INFO]: This is the set add command
+2024-10-05T16:36:37.158Z [INFO]: File is already Created
+2024-10-05T16:36:37.158Z [INFO]: File is already Created
+2024-10-05T16:36:37.159Z [INFO]: File is already Created
+2024-10-05T16:36:37.160Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:36:37.160Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:36:49.256Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:36:50.890Z [INFO]: A Client is Connected 
+2024-10-05T16:36:50.894Z [INFO]: This is the set add command
+2024-10-05T16:36:50.895Z [INFO]: File is already Created
+2024-10-05T16:36:50.896Z [INFO]: File is already Created
+2024-10-05T16:36:50.897Z [INFO]: File is already Created
+2024-10-05T16:36:50.898Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:36:50.898Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:37:02.399Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:37:06.968Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:37:09.425Z [INFO]: A Client is Connected 
+2024-10-05T16:37:09.441Z [INFO]: This is the set add command
+2024-10-05T16:37:09.442Z [INFO]: File is already Created
+2024-10-05T16:37:09.443Z [INFO]: File is already Created
+2024-10-05T16:37:09.444Z [INFO]: File is already Created
+2024-10-05T16:37:09.445Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:37:09.445Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:37:27.866Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:37:30.890Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:37:34.658Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:37:40.825Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:37:45.963Z [INFO]: A Client is Connected 
+2024-10-05T16:37:45.966Z [INFO]: This is the set add command
+2024-10-05T16:37:45.967Z [INFO]: File is already Created
+2024-10-05T16:37:45.968Z [INFO]: File is already Created
+2024-10-05T16:37:45.970Z [INFO]: File is already Created
+2024-10-05T16:37:52.881Z [INFO]: This is the set add command
+2024-10-05T16:37:52.882Z [INFO]: File is already Created
+2024-10-05T16:37:52.882Z [INFO]: File is already Created
+2024-10-05T16:37:52.883Z [INFO]: File is already Created
+2024-10-05T16:37:54.444Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:44:08.690Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:44:15.255Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:44:36.221Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:44:42.223Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:44:49.923Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:47:17.178Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:47:23.925Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:47:37.501Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:47:43.166Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:47:47.935Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:47:55.692Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:48:08.865Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:48:15.159Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:48:17.140Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:48:24.421Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:48:34.811Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:48:39.831Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:49:11.499Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:49:14.952Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:49:23.590Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:49:39.367Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:49:48.368Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:49:57.943Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:50:03.833Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:50:06.653Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:50:13.778Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:50:41.558Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:50:47.963Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:50:55.016Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:51:09.898Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:51:17.643Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:51:21.407Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:51:29.401Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:51:40.532Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:52:02.633Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:52:07.772Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:52:10.168Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:52:21.650Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:52:31.566Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:52:38.669Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:52:43.694Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:52:53.796Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:52:58.842Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:53:01.954Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:53:08.146Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:55:27.222Z [INFO]: A Client is Connected 
+2024-10-05T16:55:27.225Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:55:27.225Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:55:31.130Z [INFO]: This is the set rem command
+2024-10-05T16:55:31.130Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:55:31.130Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:55:55.226Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:56:21.772Z [INFO]: A Client is Connected 
+2024-10-05T16:56:21.777Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:56:21.777Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:56:24.166Z [INFO]: This is the set rem command
+2024-10-05T16:56:24.168Z [INFO]: File is already Created
+2024-10-05T16:56:24.168Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:56:24.169Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:57:01.980Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:57:07.337Z [INFO]: A Client is Connected 
+2024-10-05T16:57:07.340Z [INFO]: This is the set rem command
+2024-10-05T16:57:07.341Z [INFO]: File is already Created
+2024-10-05T16:57:07.342Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:57:07.343Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:57:21.698Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:57:22.727Z [INFO]: A Client is Connected 
+2024-10-05T16:57:22.731Z [INFO]: This is the set rem command
+2024-10-05T16:57:22.732Z [INFO]: File is already Created
+2024-10-05T16:57:22.733Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T16:57:22.733Z [INFO]: Custom Redis Server Running 
+2024-10-05T16:57:34.257Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:57:40.351Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:57:45.384Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:58:05.633Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:58:10.967Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:58:17.646Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:58:41.194Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:59:02.018Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:59:08.614Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T16:59:32.036Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:00:37.348Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:00:48.254Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:00:59.375Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:01:13.622Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:01:19.526Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:01:31.901Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:01:39.651Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:01:57.543Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:02:13.784Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:02:18.774Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:02:33.497Z [INFO]: A Client is Connected 
+2024-10-05T17:02:33.501Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:02:33.501Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:02:36.502Z [INFO]: This is the set rem command
+2024-10-05T17:02:36.503Z [INFO]: File is already Created
+2024-10-05T17:02:36.505Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:02:36.505Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:03:27.026Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:03:34.978Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:03:41.108Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:03:45.541Z [INFO]: A Client is Connected 
+2024-10-05T17:03:45.545Z [INFO]: This is the set rem command
+2024-10-05T17:03:45.546Z [INFO]: File is already Created
+2024-10-05T17:03:45.547Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:03:45.548Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:03:47.858Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:04:06.803Z [INFO]: A Client is Connected 
+2024-10-05T17:04:06.807Z [INFO]: This is the set rem command
+2024-10-05T17:04:06.808Z [INFO]: File is already Created
+2024-10-05T17:04:06.809Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:04:06.810Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:04:09.430Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:04:40.998Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:04:57.967Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:05:03.751Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:05:07.810Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:06:17.166Z [INFO]: A Client is Connected 
+2024-10-05T17:06:17.170Z [INFO]: This is the set rem command
+2024-10-05T17:06:17.172Z [INFO]: File is already Created
+2024-10-05T17:06:19.646Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:06:43.154Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:06:59.286Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:07:06.764Z [INFO]: A Client is Connected 
+2024-10-05T17:07:06.769Z [INFO]: This is the set rem command
+2024-10-05T17:07:06.770Z [INFO]: File is already Created
+2024-10-05T17:07:10.577Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:07:39.311Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:07:55.314Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:09:21.646Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:09:26.315Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:09:35.174Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:09:44.521Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:09:55.396Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:10:04.056Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:11:12.300Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:11:15.065Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:13:06.815Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:13:12.950Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:13:16.826Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:13:24.074Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:13:30.478Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:13:35.558Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:13:46.433Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:16:11.459Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:16:26.682Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:16:32.566Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:16:45.895Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:16:54.199Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:17:05.669Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:17:19.677Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:17:22.990Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:17:43.444Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:18:19.768Z [INFO]: A Client is Connected 
+2024-10-05T17:18:19.771Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:18:19.772Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:18:35.069Z [INFO]: This is the Set is Member Command
+2024-10-05T17:18:35.069Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:18:35.070Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:18:58.093Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:19:25.409Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:19:33.582Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:19:40.638Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:19:50.261Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:20:01.903Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:20:18.751Z [INFO]: A Client is Connected 
+2024-10-05T17:20:18.755Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:20:18.756Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:20:24.936Z [INFO]: This is the Set is Member Command
+2024-10-05T17:20:24.938Z [INFO]: File is already Created
+2024-10-05T17:20:24.938Z [ERROR]: Key Does not Exists
+2024-10-05T17:20:24.939Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:20:24.939Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:20:42.291Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:20:49.417Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:20:51.283Z [INFO]: A Client is Connected 
+2024-10-05T17:20:51.286Z [INFO]: This is the Set is Member Command
+2024-10-05T17:20:51.287Z [INFO]: File is already Created
+2024-10-05T17:20:51.288Z [ERROR]: Key Does not Exists
+2024-10-05T17:20:51.288Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:20:51.288Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:21:26.767Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:21:27.472Z [INFO]: A Client is Connected 
+2024-10-05T17:21:27.479Z [INFO]: This is the Set is Member Command
+2024-10-05T17:21:27.480Z [INFO]: File is already Created
+2024-10-05T17:21:27.481Z [ERROR]: Key Does not Exists
+2024-10-05T17:21:27.482Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:21:27.482Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:21:59.336Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:22:14.568Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:22:23.358Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:22:26.173Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:22:29.146Z [INFO]: A Client is Connected 
+2024-10-05T17:22:29.156Z [INFO]: This is the Set is Member Command
+2024-10-05T17:22:29.158Z [INFO]: File is already Created
+2024-10-05T17:22:29.160Z [ERROR]: Key Does not Exists
+2024-10-05T17:22:29.161Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:22:29.162Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:23:02.025Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:23:03.232Z [INFO]: A Client is Connected 
+2024-10-05T17:23:03.236Z [INFO]: This is the Set is Member Command
+2024-10-05T17:23:03.237Z [INFO]: File is already Created
+2024-10-05T17:23:03.238Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:23:03.239Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:23:17.024Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:23:23.332Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:23:40.787Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:23:59.517Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:24:38.148Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:25:58.034Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:26:15.970Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:26:19.886Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:26:47.307Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:27:04.558Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:32:23.008Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:32:31.820Z [INFO]: A Client is Connected 
+2024-10-05T17:32:31.824Z [INFO]: This is the Set is Member Command
+2024-10-05T17:32:31.825Z [INFO]: File is already Created
+2024-10-05T17:32:31.826Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:32:31.827Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:35:13.872Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:35:20.070Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:35:31.619Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:35:43.131Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:35:52.198Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:36:05.015Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:36:09.433Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:36:11.788Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:36:15.091Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:36:17.839Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:36:23.793Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:37:04.451Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:37:06.111Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:37:24.998Z [INFO]: A Client is Connected 
+2024-10-05T17:37:25.003Z [INFO]: This is the Set is Member Command
+2024-10-05T17:37:25.004Z [INFO]: File is already Created
+2024-10-05T17:37:52.247Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:37:58.830Z [INFO]: A Client is Connected 
+2024-10-05T17:37:58.834Z [INFO]: This is the Set is Member Command
+2024-10-05T17:37:58.835Z [INFO]: File is already Created
+2024-10-05T17:40:09.315Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:40:12.302Z [INFO]: A Client is Connected 
+2024-10-05T17:40:12.305Z [INFO]: This is the Set is Member Command
+2024-10-05T17:40:12.306Z [INFO]: File is already Created
+2024-10-05T17:40:41.425Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:40:49.762Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:41:25.432Z [INFO]: A Client is Connected 
+2024-10-05T17:41:25.456Z [INFO]: This is the Set is Member Command
+2024-10-05T17:41:25.457Z [INFO]: File is already Created
+2024-10-05T17:41:41.704Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:41:42.876Z [INFO]: A Client is Connected 
+2024-10-05T17:41:42.880Z [INFO]: This is the Set is Member Command
+2024-10-05T17:41:42.881Z [INFO]: File is already Created
+2024-10-05T17:41:57.549Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:41:59.494Z [INFO]: A Client is Connected 
+2024-10-05T17:41:59.497Z [INFO]: This is the Set is Member Command
+2024-10-05T17:41:59.498Z [INFO]: File is already Created
+2024-10-05T17:42:23.243Z [INFO]: This is the set add command
+2024-10-05T17:42:23.245Z [INFO]: File is already Created
+2024-10-05T17:42:23.246Z [INFO]: File is already Created
+2024-10-05T17:42:23.248Z [INFO]: File is already Created
+2024-10-05T17:42:35.110Z [INFO]: This is the set add command
+2024-10-05T17:42:35.111Z [INFO]: File is already Created
+2024-10-05T17:42:35.112Z [INFO]: File is already Created
+2024-10-05T17:42:35.112Z [INFO]: New key : random is Created!!
+2024-10-05T17:42:36.802Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:42:57.864Z [INFO]: A Client is Connected 
+2024-10-05T17:42:57.887Z [INFO]: This is the Set is Member Command
+2024-10-05T17:42:57.888Z [INFO]: File is already Created
+2024-10-05T17:43:06.740Z [INFO]: This is the Set is Member Command
+2024-10-05T17:43:06.741Z [INFO]: File is already Created
+2024-10-05T17:46:22.921Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:46:38.368Z [INFO]: A Client is Connected 
+2024-10-05T17:46:38.374Z [INFO]: Connected to the Custom Redis Client
+2024-10-05T17:46:38.375Z [INFO]: Custom Redis Server Running 
+2024-10-05T17:46:41.461Z [INFO]: This is the set add command
+2024-10-05T17:46:41.463Z [INFO]: File is already Created
+2024-10-05T17:46:41.464Z [INFO]: File is already Created
+2024-10-05T17:46:41.466Z [INFO]: File is already Created
+2024-10-05T17:47:08.254Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:47:10.333Z [INFO]: A Client is Connected 
+2024-10-05T17:47:10.337Z [INFO]: This is the set add command
+2024-10-05T17:47:10.338Z [INFO]: File is already Created
+2024-10-05T17:47:10.339Z [INFO]: File is already Created
+2024-10-05T17:47:10.340Z [INFO]: File is already Created
+2024-10-05T17:47:12.393Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-05T17:47:21.162Z [INFO]: A Client is Connected 
+2024-10-05T17:47:21.167Z [INFO]: This is the Set is Member Command
+2024-10-05T17:47:21.168Z [INFO]: File is already Created
+2024-10-05T17:47:25.223Z [INFO]: This is the Set is Member Command
+2024-10-05T17:47:25.224Z [INFO]: File is already Created
+2024-10-05T17:47:29.633Z [INFO]: This is the set rem command
+2024-10-05T17:47:29.635Z [INFO]: File is already Created
+2024-10-05T17:47:31.403Z [SUCCESS]: Server is runnng on the port : 8000
