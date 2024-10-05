@@ -9,6 +9,9 @@ import {
   rpopCommand,
   llenCommand,
   lrangeCommand,
+  saddCommand,
+  sremCommand,
+  sisMemberCommand,
 } from '../redisConstant';
 import { lpopCommandController } from '../redisController/listCommands/lpopCommand';
 import { lpushCommandController } from '../redisController/listCommands/lpushCommand';
@@ -18,6 +21,7 @@ import { setCommandFunction } from '../redisController/stringCommands/setCommand
 import { rpopCommandController } from '../redisController/listCommands/rpopCommand';
 import { llenCommandController } from '../redisController/listCommands/llenCommand';
 import { lrangeCommandController } from '../redisController/listCommands/lrangeCommand';
+import { saddCommandController } from '../redisController/setCommands/saddCommand';
 
 export const selectCommandRedis = (
   dataCommand: Array<string>,
@@ -93,6 +97,13 @@ export const selectCommandRedis = (
         const data = lrangeCommandController(key, start, end);
         connection.write(`+${data}\r\n`);
         break;
+      }
+
+      case saddCommand: {
+        Logger.info(`This is the set add command`)
+        const key = dataCommand[1]
+        const value = dataCommand[2]
+        saddCommandController(key,value)
       }
       case command: {
         Logger.info(`Connected to the Custom Redis Client`);

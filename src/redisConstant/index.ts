@@ -17,3 +17,13 @@ export const llenCommand = 'llen';
 export const lrangeCommand = 'llrange';
 
 export const lmoveCommand = 'lmove';
+
+
+
+
+export const saddCommand = 'sadd';
+
+export const sremCommand = 'srem';
+
+export const sisMemberCommand = 'sismember';
+
