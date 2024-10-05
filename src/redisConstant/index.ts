@@ -14,6 +14,6 @@ export const rpopCommand = 'rpop';
 
 export const llenCommand = 'llen';
 
-export const lrangeCommand = 'lrange';
+export const lrangeCommand = 'llrange';
 
 export const lmoveCommand = 'lmove';
