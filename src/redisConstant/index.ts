@@ -18,12 +18,16 @@ export const lrangeCommand = 'llrange';
 
 export const lmoveCommand = 'lmove';
 
-
-
-
 export const saddCommand = 'sadd';
 
 export const sremCommand = 'srem';
 
 export const sisMemberCommand = 'sismember';
 
+export const hgetCommand = 'hget';
+
+export const hsetCommand = 'hset';
+
+export const hgetAllCommand = 'hgetall';
+
+export const hmgetCommand = 'hmget';
