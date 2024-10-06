@@ -12,6 +12,9 @@ import {
   saddCommand,
   sremCommand,
   sisMemberCommand,
+  hsetCommand,
+  hgetCommand,
+  hgetAllCommand,
 } from '../redisConstant';
 import { lpopCommandController } from '../redisController/listCommands/lpopCommand';
 import { lpushCommandController } from '../redisController/listCommands/lpushCommand';
@@ -24,6 +27,9 @@ import { lrangeCommandController } from '../redisController/listCommands/lrangeC
 import { saddCommandController } from '../redisController/setCommands/saddCommand';
 import { sremCommandController } from '../redisController/setCommands/sremCommand';
 import { sisMemberCommandController } from '../redisController/setCommands/sismemCommand';
+import { hsetCommandController } from '../redisController/hashCommands/hsetCommand';
+import { hgetCommandController } from '../redisController/hashCommands/hgetCommand';
+import { hgetAllCommandController } from '../redisController/hashCommands/hetAllCommand';
 
 export const selectCommandRedis = (
   dataCommand: Array<string>,
@@ -136,6 +142,30 @@ export const selectCommandRedis = (
           return;
         }
       }
+
+      case hsetCommand: {
+        const data = [...dataCommand];
+        data.shift();
+        const result = hsetCommandController(data);
+        connection.write(`:${data}\r\n`);
+        break;
+      }
+
+      case hgetCommand: {
+        const key = dataCommand[1];
+        const field = dataCommand[2];
+        const result = hgetCommandController(key, field);
+        connection.write(`+${result}\r\n`);
+        break;
+      }
+
+      case hgetAllCommand: {
+        const key = dataCommand[1];
+        const result = hgetAllCommandController(key);
+        connection.write(`+${result}\r\n`);
+        break;
+      }
+
       case command: {
         Logger.info(`Connected to the Custom Redis Client`);
       }
