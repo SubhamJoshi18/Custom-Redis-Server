@@ -1858,3 +1858,46 @@
 2024-10-06T03:51:07.906Z [SUCCESS]: Server is runnng on the port : 8000
 2024-10-06T03:51:11.550Z [INFO]: A Client is Connected 
 2024-10-06T03:51:11.553Z [INFO]: File is already Created
+2024-10-07T11:33:33.915Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:33:44.251Z [INFO]: A Client is Connected 
+2024-10-07T11:33:44.254Z [INFO]: Connected to the Custom Redis Client
+2024-10-07T11:33:44.255Z [INFO]: Custom Redis Server Running 
+2024-10-07T11:34:08.181Z [INFO]: This is the Set Command
+2024-10-07T11:34:08.182Z [INFO]: File is already Created
+2024-10-07T11:34:08.183Z [INFO]: rohan already exists, So Replacing it
+2024-10-07T11:34:09.525Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:34:12.424Z [INFO]: A Client is Connected 
+2024-10-07T11:34:12.427Z [INFO]: This is the Get Command
+2024-10-07T11:34:12.428Z [INFO]: File is already Created
+2024-10-07T11:34:16.434Z [INFO]: This is the Get Command
+2024-10-07T11:34:16.435Z [INFO]: File is already Created
+2024-10-07T11:34:18.308Z [INFO]: This is the Get Command
+2024-10-07T11:34:18.309Z [INFO]: File is already Created
+2024-10-07T11:34:20.739Z [INFO]: This is the Get Command
+2024-10-07T11:34:20.740Z [INFO]: File is already Created
+2024-10-07T11:34:20.741Z [INFO]: This is the Get Command
+2024-10-07T11:34:20.741Z [INFO]: File is already Created
+2024-10-07T11:34:30.732Z [INFO]: This is the Set Command
+2024-10-07T11:34:30.732Z [INFO]: File is already Created
+2024-10-07T11:34:30.733Z [INFO]: yogesh already exists, So Replacing it
+2024-10-07T11:34:30.734Z [INFO]: This is the Get Command
+2024-10-07T11:34:30.734Z [INFO]: File is already Created
+2024-10-07T11:34:32.047Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:38:57.760Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:39:04.036Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:39:35.671Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:39:54.301Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:40:00.775Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:40:06.825Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:40:08.330Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:40:12.798Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:40:14.475Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:40:21.361Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:40:30.969Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:40:40.190Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:40:48.722Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:40:54.789Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:41:02.548Z [SUCCESS]: Server is runnng on the port : 8000
+2024-10-07T11:41:12.321Z [INFO]: A Client is Connected 
+2024-10-07T11:41:12.323Z [INFO]: This is the Get Command
+2024-10-07T11:41:12.324Z [INFO]: File is already Created

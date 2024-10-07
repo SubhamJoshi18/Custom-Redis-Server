@@ -12,17 +12,18 @@ export const getCommadFunction = (key: string) => {
   }
 
   const jsonData = getJsonData(stringFilePath);
-  const stringDatabase = jsonData['String_Database'];
+  const value = getKeyValue(jsonData, key);
+  return value;
+};
 
-  for (const [keys, value] of Object.entries(stringDatabase)) {
-    if (key.includes(key) && key.toLowerCase() === keys) {
-      keyValue.push(value);
+export const getKeyValue = (jsonData: any, key: string) => {
+  let validValue = [];
+  for (const [keys, values] of Object.entries(jsonData['String_Database'])) {
+    if (keys.includes(key)) {
+      validValue.push(values);
     }
   }
-
-  const flatedValue = keyValue.flat();
-
-  return flatedValue[0];
+  return validValue.flat()[0];
 };
 
 export const checkValidKey = (key: string) => {
